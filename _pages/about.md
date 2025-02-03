@@ -14,9 +14,10 @@ My research focuses on DBMS (e.g., RocksDB, Spark, Redis, PostgreSQL, and MySQL)
 
 # Publications
 ### 🎤 Conferences
-* RTune: a RocksDB tuning system with deep genetic algorithm. Jin, Huijun, **Jieun Lee**, and Sanghyun Park.  GECCO 2022
+* [RTune: a RocksDB tuning system with deep genetic algorithm.](https://doi.org/10.1145/3512290.3528726) Jin, Huijun*, **Jieun Lee**, and Sanghyun Park. **(GECCO 2022)**
 * Conference 2
 
 ### 📖 Journals
-* Journal 1
-* Journal 2
+* [Pseq2Sites: Enhancing protein sequence-based ligand binding-site prediction accuracy via the deep convolutional network and attention mechanism.](https://doi.org/10.1016/j.engappai.2023.107257) Sangmin Seo*, Jonghwan Choi, Seungyeon Choi, **Jieun Lee**, Chihyun Park, Sanghyun Park. **_Engineering Applications of Artificial Intelligence_, 2024**
+* [K2vTune: A workload-aware configuration tuning for RocksDB](https://doi.org/10.1016/j.ipm.2023.103567) **Jieun Lee***, Sangmin Seo, Jonghwan Choi, Sanghyun Park. **_Information Processing & Management_, 2024**
+  
