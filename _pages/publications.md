@@ -14,7 +14,7 @@ author_profile: true
 * Transformer 를 이용한 이미지 캡션 생성. **이지은***, 박진욱, 박찬희, 홍정수, 박상현. **(KSC2019)**
 * 시계열 데이터의 장단기 모델링을 통한 전력 수요 예측 기법. 박찬희*, 조민수, 박진욱, 노홍찬, **이지은**, 박상현. **(KCC 2019)**
 
------------------------
+  
 ### Journals
 * Exploring the potential of compound–protein complex structure-free models in virtual screening using BlendNet. Sangmin Seo*, Hwanhee Kim, **Jieun Lee**, Seungyeon Choi, and Sanghyun Park. **_Briefings in Bioinformatics_, 2025** [📖](https://doi.org/10.1093/bib/bbae712)
 * Pseq2Sites: Enhancing protein sequence-based ligand binding-site prediction accuracy via the deep convolutional network and attention mechanism. Sangmin Seo*, Jonghwan Choi, Seungyeon Choi, **Jieun Lee**, Chihyun Park, and Sanghyun Park. **_Engineering Applications of Artificial Intelligence_, 2024** [📖](https://doi.org/10.1016/j.engappai.2023.107257)
