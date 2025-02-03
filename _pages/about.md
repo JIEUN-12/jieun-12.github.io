@@ -16,12 +16,12 @@ I am currently exploring postdoctoral opportunities, aiming for a future in acad
 ## 📝 Publications
 -------------------
 **Conferences**
-* **Towards Workload-Specific Configuration Tuning via Meta-Learning for RocksDB.** Chanho Yeom*, **Jieun Lee***, Sangmin Seo, and Sanghyun Park. **(SMC 2024)** [🔗](https://doi.org/10.1109/SMC54092.2024.10831422)
-* **RTune: a RocksDB tuning system with deep genetic algorithm.** Huijun Jin*, **Jieun Lee**, and Sanghyun Park. **(GECCO 2022)** [🔗](https://doi.org/10.1145/3512290.3528726)
+* Towards Workload-Specific Configuration Tuning via Meta-Learning for RocksDB. Chanho Yeom*, **Jieun Lee**, Sangmin Seo, and Sanghyun Park. **(SMC 2024)** [📖](https://doi.org/10.1109/SMC54092.2024.10831422)
+* **RTune: a RocksDB tuning system with deep genetic algorithm.** Huijun Jin*, **Jieun Lee***, and Sanghyun Park. **(GECCO 2022)** [📖](https://doi.org/10.1145/3512290.3528726)
 
   
 **Journals**
-* [Exploring the potential of compound–protein complex structure-free models in virtual screening using BlendNet.](https://doi.org/10.1093/bib/bbae712) Sangmin Seo*, Hwanhee Kim, **Jieun Lee**, Seungyeon Choi, and Sanghyun Park. **_Briefings in Bioinformatics_, 2025**
-* [Pseq2Sites: Enhancing protein sequence-based ligand binding-site prediction accuracy via the deep convolutional network and attention mechanism.](https://doi.org/10.1016/j.engappai.2023.107257) Sangmin Seo*, Jonghwan Choi, Seungyeon Choi, **Jieun Lee**, Chihyun Park, and Sanghyun Park. **_Engineering Applications of Artificial Intelligence_, 2024**
-* [K2vTune: A workload-aware configuration tuning for RocksDB](https://doi.org/10.1016/j.ipm.2023.103567) **Jieun Lee***, Sangmin Seo, Jonghwan Choi, and Sanghyun Park. **_Information Processing & Management_, 2024**
+* **Exploring the potential of compound–protein complex structure-free models in virtual screening using BlendNet.** Sangmin Seo*, Hwanhee Kim, **Jieun Lee**, Seungyeon Choi, and Sanghyun Park. **_Briefings in Bioinformatics_, 2025** [📖](https://doi.org/10.1093/bib/bbae712)
+* **Pseq2Sites: Enhancing protein sequence-based ligand binding-site prediction accuracy via the deep convolutional network and attention mechanism.** Sangmin Seo*, Jonghwan Choi, Seungyeon Choi, **Jieun Lee**, Chihyun Park, and Sanghyun Park. **_Engineering Applications of Artificial Intelligence_, 2024** [📖](https://doi.org/10.1016/j.engappai.2023.107257)
+* **K2vTune: A workload-aware configuration tuning for RocksDB.** **Jieun Lee***, Sangmin Seo, Jonghwan Choi, and Sanghyun Park. **_Information Processing & Management_, 2024** [📖](https://doi.org/10.1016/j.ipm.2023.103567)
   
