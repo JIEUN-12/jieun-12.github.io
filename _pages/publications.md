@@ -15,8 +15,8 @@ author_profile: true
 * Pseq2Sites: Enhancing protein sequence-based ligand binding-site prediction accuracy via the deep convolutional network and attention mechanism. Sangmin Seo*, Jonghwan Choi, Seungyeon Choi, **Jieun Lee**, Chihyun Park, and Sanghyun Park. **_Engineering Applications of Artificial Intelligence_, 2024** [📖](https://doi.org/10.1016/j.engappai.2023.107257)
 * K2vTune: A workload-aware configuration tuning for RocksDB. **Jieun Lee***, Sangmin Seo, Jonghwan Choi, and Sanghyun Park. **_Information Processing & Management_, 2024** [📖](https://doi.org/10.1016/j.ipm.2023.103567)
 
-------
-### Domestic Publications (🇰🇷 🏠)
+
+## 🏠 Domestic Publications
 **Conferences**
 * DPPML: 메타러닝을 활용한 데이터베이스 성능 예측. 염찬호*, **이지은**, 박상현. **(KCC 2022)**
 * OANet: 데이터베이스 성능 예측을 위한 Ortho Attention Net. 염찬호*, **이지은**, 서주연, 박상현. **(KSC 2021)**
