@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Conferences
-* Towards Workload-Specific Configuration Tuning via Meta-Learning for RocksDB. Chanho Yeom*, **Jieun Lee**, Sangmin Seo, and Sanghyun Park. **(SMC 2024)** [📖](https://doi.org/10.1109/SMC54092.2024.10831422)
+* Towards Workload-Specific Configuration Tuning via Meta-Learning for RocksDB. Chanho Yeom*, **Jieun Lee***, Sangmin Seo, and Sanghyun Park. **(SMC 2024)** [📖](https://doi.org/10.1109/SMC54092.2024.10831422)
 * RTune: a RocksDB tuning system with deep genetic algorithm. Huijun Jin*, **Jieun Lee***, and Sanghyun Park. **(GECCO 2022)** [📖](https://doi.org/10.1145/3512290.3528726)
 
   
