@@ -11,7 +11,7 @@ redirect_from:
 
 📚 Education
 ======
-* Ph.D in Computer Science, Yonsei University, 2025 (expected)
+* Ph.D in Computer Science, Yonsei University, 2025
   * Completed via Integrated M.S./Ph.D. Program
 * B.S. in Computer Science and Engineering, Incheon University, South Korea, 2019
 
