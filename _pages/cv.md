@@ -27,7 +27,7 @@ Skills
 * Related to DBMS or Data Systems
   * Auto-Tuning
   * Vector Databases
-  * NoSQL, RDBMS (e.g., RocksDB, Spark, Redis, MySQL, and PostgreSQL)
+  * NoSQL and RDBMS (e.g., RocksDB, Spark, Redis, MySQL, and PostgreSQL)
 * Bayesian Optimization
 * Text-to-SQL
 * Large Language Models (LLMs)
