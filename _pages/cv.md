@@ -17,19 +17,22 @@ redirect_from:
 
 Project experiences
 ======
-* Spring 2024: TBA
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Mar 2019 - Dec 2024: (SW starlab) Research and development of the high performance in-memory distributed DBMS based on flash memory storage in an IoT environment
+  * IITP
+  * 2021-2023: Project Manager
+  * 2019-2020, 2024: Research Member
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Related to DBMS or Data Systems
+  * Auto-Tuning
+  * Vector Databases
+  * NoSQL, RDBMS (e.g., RocksDB, Spark, Redis, MySQL, and PostgreSQL)
+* Bayesian Optimization
+* Text-to-SQL
+* Large Language Models (LLMs)
+* Machine Learning
+* Deep Learning
 
 Publications
 ======
