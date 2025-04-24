@@ -18,7 +18,7 @@ redirect_from:
 Project experiences
 ======
 * Mar 2019 - Dec 2024: (SW starlab) Research and development of the high performance in-memory distributed DBMS based on flash memory storage in an IoT environment
-  * IITP
+  * Institute of Information & communications Technology Planning & Evaluation (IITP)
   * 2021-2023: Project Manager
   * 2019-2020, 2024: Research Member
   
