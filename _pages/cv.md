@@ -36,7 +36,7 @@ Skills
 
 Publications
 ======
-* An Efficient and Noise-Robust Framework for High-Dimensional Tuning in Big Data Analytics. **Jieun Lee***, Sangmin Seo, Chanho Yeom, Huijun Jin, Sein Kwon, Sanghyun Park. **_Engineering Applications of Artificial Intelligence_, 2025**
+* An Efficient and Noise-Robust Framework for High-Dimensional Tuning in Big Data Analytics. **Jieun Lee***, Sangmin Seo, Chanho Yeom, Huijun Jin, Sein Kwon, Sanghyun Park. **_Engineering Applications of Artificial Intelligence_, 2025** [📖](https://doi.org/10.1016/j.engappai.2025.111332)
 * Towards Workload-Specific Configuration Tuning via Meta-Learning for RocksDB. Chanho Yeom*, **Jieun Lee***, Sangmin Seo, and Sanghyun Park. **(SMC 2024)** [📖](https://doi.org/10.1109/SMC54092.2024.10831422)
 * K2vTune: A workload-aware configuration tuning for RocksDB. **Jieun Lee***, Sangmin Seo, Jonghwan Choi, and Sanghyun Park. **_Information Processing & Management_, 2024** [📖](https://doi.org/10.1016/j.ipm.2023.103567)
 * 이미지 캡션 생성을 위한 다중 관점을 가진 자가 교열 트랜스포머. **이지은***, 박진욱, 박상현. **_정보과학회논문지_**, 2021
