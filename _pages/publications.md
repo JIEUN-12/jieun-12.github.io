@@ -11,7 +11,6 @@ author_profile: true
 * Efficient Approximate Nearest Neighbor Search via Data-AdaptiveParameter Adjustment in Hierarchical Navigable Small Graphs. Huijun Jin*, **Jieun Lee**, Shengmin Piao, Sangmin Seo, and Sanghyun Park **(DATE 2025)** [📖](https://ieeexplore.ieee.org/document/10992903)
 * Towards Workload-Specific Configuration Tuning via Meta-Learning for RocksDB. Chanho Yeom*, **Jieun Lee***, Sangmin Seo, and Sanghyun Park. **(SMC 2024)** [📖](https://doi.org/10.1109/SMC54092.2024.10831422)
 * RTune: a RocksDB tuning system with deep genetic algorithm. Huijun Jin*, **Jieun Lee***, and Sanghyun Park. **(GECCO 2022)** [📖](https://doi.org/10.1145/3512290.3528726)
-
   
 ### Journals
 * An Efficient and Noise-Robust Framework for High-Dimensional Tuning in Big Data Analytics. **Jieun Lee***, Sangmin Seo, Chanho Yeom, Huijun Jin, Sein Kwon, Sanghyun Park. **_Engineering Applications of Artificial Intelligence_, 2025** [📖](https://doi.org/10.1016/j.engappai.2025.111332)
@@ -19,9 +18,10 @@ author_profile: true
 * Pseq2Sites: Enhancing protein sequence-based ligand binding-site prediction accuracy via the deep convolutional network and attention mechanism. Sangmin Seo*, Jonghwan Choi, Seungyeon Choi, **Jieun Lee**, Chihyun Park, and Sanghyun Park. **_Engineering Applications of Artificial Intelligence_, 2024** [📖](https://doi.org/10.1016/j.engappai.2023.107257)
 * K2vTune: A workload-aware configuration tuning for RocksDB. **Jieun Lee***, Sangmin Seo, Jonghwan Choi, and Sanghyun Park. **_Information Processing & Management_, 2024** [📖](https://doi.org/10.1016/j.ipm.2023.103567)
 
-
 ### Preprints
 * LitE-SQL: A Lightweight and Efficient Text-to-SQL Framework with Vector-based Schema Linking and Execution-Guided Self-Correction. Shengmin Piao*, **Jieun Lee***, Sanghyun Park. **ArXiv, 2025** [📖](https://arxiv.org/abs/2510.09014)
+
+  
 
 ## 🏠 Domestic Publications
 **Conferences**
