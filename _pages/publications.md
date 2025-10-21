@@ -20,6 +20,9 @@ author_profile: true
 * K2vTune: A workload-aware configuration tuning for RocksDB. **Jieun Lee***, Sangmin Seo, Jonghwan Choi, and Sanghyun Park. **_Information Processing & Management_, 2024** [📖](https://doi.org/10.1016/j.ipm.2023.103567)
 
 
+### Preprints
+* LitE-SQL: A Lightweight and Efficient Text-to-SQL Framework with Vector-based Schema Linking and Execution-Guided Self-Correction. Shengmin Piao*, **Jieun Lee***, Sanghyun Park. **ArXiv, 2025** [📖](https://arxiv.org/abs/2510.09014)
+
 ## 🏠 Domestic Publications
 **Conferences**
 * DPPML: 메타러닝을 활용한 데이터베이스 성능 예측. 염찬호*, **이지은**, 박상현. **(KCC 2022)**
