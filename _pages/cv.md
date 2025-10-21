@@ -36,6 +36,7 @@ Skills
 
 Publications
 ======
+* LitE-SQL: A Lightweight and Efficient Text-to-SQL Framework with Vector-based Schema Linking and Execution-Guided Self-Correction. Shengmin Piao*, **Jieun Lee***, Sanghyun Park. **ArXiv, 2025** [📖](https://arxiv.org/abs/2510.09014)
 * An Efficient and Noise-Robust Framework for High-Dimensional Tuning in Big Data Analytics. **Jieun Lee***, Sangmin Seo, Chanho Yeom, Huijun Jin, Sein Kwon, Sanghyun Park. **_Engineering Applications of Artificial Intelligence_, 2025** [📖](https://doi.org/10.1016/j.engappai.2025.111332)
 * Towards Workload-Specific Configuration Tuning via Meta-Learning for RocksDB. Chanho Yeom*, **Jieun Lee***, Sangmin Seo, and Sanghyun Park. **(SMC 2024)** [📖](https://doi.org/10.1109/SMC54092.2024.10831422)
 * K2vTune: A workload-aware configuration tuning for RocksDB. **Jieun Lee***, Sangmin Seo, Jonghwan Choi, and Sanghyun Park. **_Information Processing & Management_, 2024** [📖](https://doi.org/10.1016/j.ipm.2023.103567)
